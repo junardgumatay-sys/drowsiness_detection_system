@@ -24,7 +24,7 @@ This computer vision application detects driver drowsiness and fatigue from imag
 ### Installation Steps
 1. Clone the repository:
    ```bash
-   git clone [https://github.com/junardgumatay/drowsiness-detection-system.git](https://github.com/junardgumatay/drowsiness-detection-system.git)
+   git clone [https://github.com/junardgumatay-sys/drowsiness-detection-system.git](https://github.com/junardgumatay-sys/drowsiness-detection-system.git)
    cd drowsiness-detection-system
    ```
 
